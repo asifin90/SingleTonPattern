@@ -2,7 +2,7 @@
 
 Singleton is a design pattern false into category of creational design pattern.
 
-It is one of the simplest design pattern.
+It is one of the simplest design pattern. It is used for applications like logging, device drivers, registry settings, database operation etc when we dont want to create instance again and again.
 
 Concept of this design pattern is to create an instance  and that same instance is provided throughout the application without creating instance again and again.
 
